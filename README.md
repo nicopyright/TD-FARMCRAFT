@@ -153,3 +153,8 @@ function grow(){
 ```
 On obtient alors le jeu final:
 ![img_6.png](src/img_6.png)
+
+## CONCLUSION
+
+Ce TP nous a permis de manipuler le DOM en JavaScript et de créer un petit jeu de culture de blé. Nous avons pu mettre en place des function qui interagissent directement avec la page web. La dernière partie du TD avec la mise en place des 3 règles était la plus complexe mais elle a permis de mettre en place des probabilités et des conditions pour la pousse du blé ainsi que la manipulation du temps.
+Ce TP nous a permis de mettre en pratique les notions vues en cours et de nous familiariser avec la manipulation du DOM en JavaScript.
