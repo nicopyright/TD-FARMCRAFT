@@ -51,6 +51,7 @@ On appelle la fonction « connectClickEvent » lorsque la page a terminé son ch
 window.addEventListener("load", connectClickEvent);
 ``` 
 On obtient alors :
+
 ![img_1.png](src/img_1.png)
 
 
